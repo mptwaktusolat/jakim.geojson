@@ -3910,7 +3910,8 @@
       "properties": {
         "name": "W.P. Labuan",
         "code_state": 15,
-        "state": "LBN"
+        "state": "LBN",
+        "jakim_code": "WLY02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4077,7 +4078,8 @@
       "properties": {
         "name": "W.P. Putrajaya",
         "code_state": 16,
-        "state": "PJY"
+        "state": "PJY",
+        "jakim_code": "WLY01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4148,7 +4150,8 @@
       "properties": {
         "name": "Kuching",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK08"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4594,7 +4597,8 @@
       "properties": {
         "name": "W.P. Kuala Lumpur",
         "code_state": 14,
-        "state": "KUL"
+        "state": "KUL",
+        "jakim_code": "WLY01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4769,7 +4773,8 @@
       "properties": {
         "name": "Samarahan",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4866,7 +4871,8 @@
       "properties": {
         "name": "Serian",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5005,7 +5011,8 @@
       "properties": {
         "name": "Batu Pahat",
         "code_state": 1,
-        "state": "JHR"
+        "state": "JHR",
+        "jakim_code": "JHR04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5370,7 +5377,8 @@
       "properties": {
         "name": "Simunjan",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5548,7 +5556,8 @@
       "properties": {
         "name": "Sri Aman",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK06"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5727,7 +5736,8 @@
       "properties": {
         "name": "Sarikei",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5895,7 +5905,8 @@
       "properties": {
         "name": "Dalat",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5971,7 +5982,8 @@
       "properties": {
         "name": "Betong",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK06"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6117,7 +6129,8 @@
       "properties": {
         "name": "Daro",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6210,7 +6223,8 @@
       "properties": {
         "name": "Saratok",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK06"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6441,7 +6455,8 @@
       "properties": {
         "name": "Julau",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6806,7 +6821,8 @@
       "properties": {
         "name": "Sibu",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6986,7 +7002,8 @@
       "properties": {
         "name": "Kapit",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7255,7 +7272,8 @@
       "properties": {
         "name": "Bintulu",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7536,7 +7554,8 @@
       "properties": {
         "name": "Kanowit",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7909,7 +7928,8 @@
       "properties": {
         "name": "Sebauh",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8371,7 +8391,8 @@
       "properties": {
         "name": "Song",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9038,7 +9059,8 @@
       "properties": {
         "name": "Lawas",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9414,7 +9436,8 @@
       "properties": {
         "name": "Tatau",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10324,7 +10347,8 @@
       "properties": {
         "name": "Matu",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK05"
       },
       "geometry": {
         "type": "MultiPolygon",
