@@ -107,7 +107,7 @@
         "name": "Baling",
         "code_state": 2,
         "state": "KDH",
-        "jakim_code": "KGH04"
+        "jakim_code": "KDH04"
       },
       "geometry": {
         "type": "MultiPolygon",

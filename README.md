@@ -4,7 +4,9 @@ View file in [malaysia.district-jakim.geojson](./malaysia.district-jakim.geojson
 
 List of JAKIM Code and location: https://mpt-server.vercel.app/locations
 
-Zone Visualization tool: https://github.com/mptwaktusolat/jakim_zones_map
+Zone Visualization tool: https://github.com/mptwaktusolat/jakim_zones_map.
+
+The checking tool in `check_zones.py` is used to verify that there are no errors while in the process of adding the jakim zones data.
 
 _Work in Progress_. Last stop at `Jempol`
 
