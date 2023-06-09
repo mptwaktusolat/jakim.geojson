@@ -10431,7 +10431,8 @@
       "properties": {
         "name": "Marudi",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10906,7 +10907,8 @@
       "properties": {
         "name": "Kabong",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK06"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10992,7 +10994,8 @@
       "properties": {
         "name": "Limbang",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11482,7 +11485,8 @@
       "properties": {
         "name": "Pusa",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK06"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11566,7 +11570,8 @@
       "properties": {
         "name": "Miri",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11955,7 +11960,8 @@
       "properties": {
         "name": "Belaga",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12878,7 +12884,8 @@
       "properties": {
         "name": "Seberang Perai Tengah",
         "code_state": 7,
-        "state": "PNG"
+        "state": "PNG",
+        "jakim_code": "PNG01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13680,7 +13687,8 @@
       "properties": {
         "name": "Perlis",
         "code_state": 9,
-        "state": "PLS"
+        "state": "PLS",
+        "jakim_code": "PLS01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13827,7 +13835,8 @@
       "properties": {
         "name": "Seberang Perai Selatan",
         "code_state": 7,
-        "state": "PNG"
+        "state": "PNG",
+        "jakim_code": "PNG01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14385,7 +14394,8 @@
       "properties": {
         "name": "Bentong",
         "code_state": 6,
-        "state": "PHG"
+        "state": "PHG",
+        "jakim_code": "PHG04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14714,7 +14724,8 @@
       "properties": {
         "name": "Jerantut",
         "code_state": 6,
-        "state": "PHG"
+        "state": "PHG",
+        "jakim_code": "PHG03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15358,7 +15369,8 @@
       "properties": {
         "name": "Seberang Perai Utara",
         "code_state": 7,
-        "state": "PNG"
+        "state": "PNG",
+        "jakim_code": "PNG01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15496,7 +15508,8 @@
       "properties": {
         "name": "Timur Laut",
         "code_state": 7,
-        "state": "PNG"
+        "state": "PNG",
+        "jakim_code": "PNG01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15644,7 +15657,8 @@
       "properties": {
         "name": "Cameron Highlands",
         "code_state": 6,
-        "state": "PHG"
+        "state": "PHG",
+        "jakim_code": "PHG06"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15825,7 +15839,8 @@
       "properties": {
         "name": "Kuantan",
         "code_state": 6,
-        "state": "PHG"
+        "state": "PHG",
+        "jakim_code": "PHG02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16180,7 +16195,8 @@
       "properties": {
         "name": "Kuala Pilah",
         "code_state": 5,
-        "state": "NSN"
+        "state": "NSN",
+        "jakim_code": "NGS02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16372,7 +16388,8 @@
       "properties": {
         "name": "Seremban",
         "code_state": 5,
-        "state": "NSN"
+        "state": "NSN",
+        "jakim_code": "NGS03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16511,7 +16528,8 @@
       "properties": {
         "name": "Jelebu",
         "code_state": 5,
-        "state": "NSN"
+        "state": "NSN",
+        "jakim_code": "NGS02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16721,7 +16739,8 @@
       "properties": {
         "name": "Tampin",
         "code_state": 5,
-        "state": "NSN"
+        "state": "NSN",
+        "jakim_code": "NGS01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16844,7 +16863,8 @@
       "properties": {
         "name": "Maran",
         "code_state": 6,
-        "state": "PHG"
+        "state": "PHG",
+        "jakim_code": "PHG03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17174,7 +17194,8 @@
       "properties": {
         "name": "Barat Daya",
         "code_state": 7,
-        "state": "PNG"
+        "state": "PNG",
+        "jakim_code": "PNG01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17344,7 +17365,8 @@
       "properties": {
         "name": "Rembau",
         "code_state": 5,
-        "state": "NSN"
+        "state": "NSN",
+        "jakim_code": "NGS02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17462,7 +17484,8 @@
       "properties": {
         "name": "Hulu Perak",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18336,7 +18359,8 @@
       "properties": {
         "name": "Bagan Datuk",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18540,7 +18564,8 @@
       "properties": {
         "name": "Jempol",
         "code_state": 5,
-        "state": "NSN"
+        "state": "NSN",
+        "jakim_code": "NGS01"
       },
       "geometry": {
         "type": "MultiPolygon",
