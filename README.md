@@ -35,8 +35,7 @@ A copy of the file is created named [malaysia.district-jakim.geojson](./malaysia
 
 Check out Zone Visualization tool - an interactive tool to view map and jakim zones: https://github.com/mptwaktusolat/jakim_zones_map.
 
-
-_Work in Progress_. Last stop at `Jempol`
+_Work in Progress_. Last stop at `Kunak`
 
 ## TODOs:
 
@@ -55,3 +54,14 @@ _Work in Progress_. Last stop at `Jempol`
 - `Bukit Mabong` Sarawak not in JAKIM list. Need to make an assumption.
 - `Hulu Perak` Perak not in JAKIM list. However, a similar zone `Hulu` is available. Need to confirm the assumption.
 - `Batang Padang` Perak not in JAKIM list. Need to make an assumption.
+- `Manjung` Perak not in JAKIM list. Need to make an assumption.
+- `Perak Tengah` Perak not in JAKIM list. Need to make an assumption.
+- `Hilir Perak` Perak not in JAKIM list. Need to make an assumption.
+- `Kerian` Perak not in JAKIM list. Need to make an assumption.
+- `Muallim` Perak not in JAKIM list. Need to make an assumption.
+- `Kinta` Perak not in JAKIM list. Need to make an assumption.
+
+## Modification
+
+- `Ulu Langat` (SGR) become `Hulu Langat`
+- `Ulu Selangor` (SGR) become `Hulu Selangor`
