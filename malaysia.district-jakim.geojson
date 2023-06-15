@@ -28008,7 +28008,8 @@
       "properties": {
         "name": "Petaling",
         "code_state": 10,
-        "state": "SGR"
+        "state": "SGR",
+        "jakim_code": "SGR01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28200,7 +28201,8 @@
       "properties": {
         "name": "Dungun",
         "code_state": 11,
-        "state": "TRG"
+        "state": "TRG",
+        "jakim_code": "TRG04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28552,7 +28554,8 @@
       "properties": {
         "name": "Kuala Nerus",
         "code_state": 11,
-        "state": "TRG"
+        "state": "TRG",
+        "jakim_code": "TRG01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28857,7 +28860,8 @@
       "properties": {
         "name": "Jeli",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29304,7 +29308,8 @@
       "properties": {
         "name": "Kuala Langat",
         "code_state": 10,
-        "state": "SGR"
+        "state": "SGR",
+        "jakim_code": "SGR03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29418,7 +29423,8 @@
       "properties": {
         "name": "Semporna",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30206,7 +30212,8 @@
       "properties": {
         "name": "Beaufort",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH09"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30490,7 +30497,8 @@
       "properties": {
         "name": "Sipitang",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH09"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30768,7 +30776,8 @@
       "properties": {
         "name": "Beluran",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32832,7 +32841,8 @@
       "properties": {
         "name": "Pasir Puteh",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32964,7 +32974,8 @@
       "properties": {
         "name": "Padang Terap",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33217,7 +33228,8 @@
       "properties": {
         "name": "Telupid",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33394,7 +33406,8 @@
       "properties": {
         "name": "Kuala Kangsar",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33766,7 +33779,8 @@
       "properties": {
         "name": "Kota Kinabalu",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34088,7 +34102,8 @@
       "properties": {
         "name": "Lahad Datu",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34958,7 +34973,8 @@
       "properties": {
         "name": "Kuala Krai",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35176,7 +35192,8 @@
       "properties": {
         "name": "Pitas",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35437,7 +35454,8 @@
       "properties": {
         "name": "Kuala Muda",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35682,7 +35700,8 @@
       "properties": {
         "name": "Tumpat",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35798,7 +35817,8 @@
       "properties": {
         "name": "Bandar Baharu",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36001,7 +36021,8 @@
       "properties": {
         "name": "Putatan",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36055,7 +36076,8 @@
       "properties": {
         "name": "Yan",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36205,7 +36227,8 @@
       "properties": {
         "name": "Keningau",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH08"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36440,7 +36463,8 @@
       "properties": {
         "name": "Tambunan",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH08"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36577,7 +36601,8 @@
       "properties": {
         "name": "Papar",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36811,7 +36836,8 @@
       "properties": {
         "name": "Kota Setar",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36942,7 +36968,8 @@
       "properties": {
         "name": "Kudat",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37581,7 +37608,8 @@
       "properties": {
         "name": "Kota Marudu",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38149,7 +38177,8 @@
       "properties": {
         "name": "Nabawan",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH08"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38452,7 +38481,8 @@
       "properties": {
         "name": "Tenom",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH09"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38673,7 +38703,8 @@
       "properties": {
         "name": "Bachok",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38786,7 +38817,8 @@
       "properties": {
         "name": "Kulim",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39004,7 +39036,8 @@
       "properties": {
         "name": "Kota Bharu",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39159,7 +39192,8 @@
       "properties": {
         "name": "Penampang",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39286,7 +39320,8 @@
       "properties": {
         "name": "Kubang Pasu",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39482,7 +39517,8 @@
       "properties": {
         "name": "Kalabakan",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39998,7 +40034,8 @@
       "properties": {
         "name": "Tanah Merah",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40190,7 +40227,8 @@
       "properties": {
         "name": "Sik",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH03"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40553,7 +40591,8 @@
       "properties": {
         "name": "Gua Musang",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41011,7 +41050,8 @@
       "properties": {
         "name": "Pokok Sena",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41146,7 +41186,8 @@
       "properties": {
         "name": "Tuaran",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code": "SBH07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41353,7 +41394,8 @@
       "properties": {
         "name": "Pasir Mas",
         "code_state": 3,
-        "state": "KTN"
+        "state": "KTN",
+        "jakim_code": "KTN01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41549,7 +41591,8 @@
       "properties": {
         "name": "Langkawi",
         "code_state": 2,
-        "state": "KDH"
+        "state": "KDH",
+        "jakim_code": "KDH06"
       },
       "geometry": {
         "type": "MultiPolygon",

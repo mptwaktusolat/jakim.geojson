@@ -35,8 +35,6 @@ A copy of the file is created named [malaysia.district-jakim.geojson](./malaysia
 
 Check out Zone Visualization tool - an interactive tool to view map and jakim zones: https://github.com/mptwaktusolat/jakim_zones_map.
 
-_Work in Progress_. Last stop at `Kunak`
-
 ## TODOs:
 
 - Seperate Pulau Aur & Pulau Pemanggil from `Mersing`.
@@ -60,6 +58,10 @@ _Work in Progress_. Last stop at `Kunak`
 - `Kerian` Perak not in JAKIM list. Need to make an assumption.
 - `Muallim` Perak not in JAKIM list. Need to make an assumption.
 - `Kinta` Perak not in JAKIM list. Need to make an assumption.
+- `Tawau` Sabah. From Jakim list, ada banyak Tawau. Need to check.
+- `Sandakan` Sabah. From Jakim list, ada banyak Sandakan. Need to check.
+- `Larut Dan Matang` Perak not in JAKIM list. However, a similar zone `Bukit Larut` is available. Need to confirm the assumption.
+- `Tongod` Sabah not in JAKIM list. Need to make an assumption.
 
 ## Modification
 

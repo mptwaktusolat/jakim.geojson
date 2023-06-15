@@ -14,7 +14,7 @@ with open('malaysia.district-jakim.geojson') as f:
         try:
             jakim_code = properties['jakim_code']
         except KeyError:
-            print(state, 'has no jakim_code. Skipping...')
+            print(properties['name'], 'has no jakim_code. Skipping...')
             continue
 
         print(f'Checking {jakim_code} {state}', end=" ")
