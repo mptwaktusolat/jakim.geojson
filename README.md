@@ -37,7 +37,6 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 
 ## TODOs:
 
-- Seperate Pulau Aur & Pulau Pemanggil from `Mersing`.
 - `Lubok Antu` Sarawak not in JAKIM list. Need to make an assumption.
 - `Maradong` Sarawak not in JAKIM list. Need to make an assumption.
 - `Mukah` Sarawak not in JAKIM list. Need to make an assumption.
@@ -67,3 +66,4 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 
 - `Ulu Langat` (SGR) become `Hulu Langat`
 - `Ulu Selangor` (SGR) become `Hulu Selangor`
+- Seperated Pulau Aur & Pulau Pemanggil from `Mersing` to individual feature.
