@@ -37,10 +37,6 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 
 ## TODOs:
 
-- `Lubok Antu` Sarawak not in JAKIM list. Need to make an assumption.
-- `Maradong` Sarawak not in JAKIM list. Need to make an assumption.
-- `Mukah` Sarawak not in JAKIM list. Need to make an assumption.
-- `Tanjung Manis` Sarawak not in JAKIM list. Need to make an assumption.
 - `Asajaya` Sarawak not in JAKIM list. Need to make an assumption.
 - `Pakan` Sarawak not in JAKIM list. Need to make an assumption.
 - `Selangau` Sarawak not in JAKIM list. Need to make an assumption.
@@ -67,3 +63,10 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 - `Ulu Langat` (SGR) become `Hulu Langat`
 - `Ulu Selangor` (SGR) become `Hulu Selangor`
 - Seperated Pulau Aur & Pulau Pemanggil from `Mersing` to individual feature.
+
+## Assumptions
+
+Some districts in geojson file doesn't have corresponding match in JAKIM list. I've made some assumptions based on the location of the districts and some data from Internet.
+
+- `Maradong` (Sarawak) set same zone as `Sarikei`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Meradong_District).
+- `Tanjung Manis` (Sarawak) not in JAKIM list. But found in [JAIS website](https://jais.sarawak.gov.my/web/subpage/webpage_view/150).

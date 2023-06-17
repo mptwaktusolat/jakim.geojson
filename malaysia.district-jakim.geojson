@@ -5167,7 +5167,8 @@
       "properties": {
         "name": "Lubok Antu",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK06"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6349,7 +6350,8 @@
       "properties": {
         "name": "Maradong",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6733,7 +6735,8 @@
       "properties": {
         "name": "Mukah",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code":"SWK04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7033,7 +7036,7 @@
         "name": "Kapit",
         "code_state": 13,
         "state": "SWK",
-        "jakim_code": "SWK03"
+        "jakim_code": "SWK04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7857,7 +7860,8 @@
       "properties": {
         "name": "Tanjung Manis",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code":"SWK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8422,7 +8426,7 @@
         "name": "Song",
         "code_state": 13,
         "state": "SWK",
-        "jakim_code": "SWK03"
+        "jakim_code": "SWK04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11991,7 +11995,7 @@
         "name": "Belaga",
         "code_state": 13,
         "state": "SWK",
-        "jakim_code": "SWK02"
+        "jakim_code": "SWK03"
       },
       "geometry": {
         "type": "MultiPolygon",
