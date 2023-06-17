@@ -37,14 +37,6 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 
 ## TODOs:
 
-- `Asajaya` Sarawak not in JAKIM list. Need to make an assumption.
-- `Pakan` Sarawak not in JAKIM list. Need to make an assumption.
-- `Selangau` Sarawak not in JAKIM list. Need to make an assumption.
-- `Tebedu` Sarawak not in JAKIM list. Need to make an assumption.
-- `Telang Usan` Sarawak not in JAKIM list. Need to make an assumption.
-- `Subis` Sarawak not in JAKIM list. Need to make an assumption.
-- `Beluru` Sarawak not in JAKIM list. Need to make an assumption.
-- `Bukit Mabong` Sarawak not in JAKIM list. Need to make an assumption.
 - `Hulu Perak` Perak not in JAKIM list. However, a similar zone `Hulu` is available. Need to confirm the assumption.
 - `Batang Padang` Perak not in JAKIM list. Need to make an assumption.
 - `Manjung` Perak not in JAKIM list. Need to make an assumption.
@@ -70,3 +62,11 @@ Some districts in geojson file doesn't have corresponding match in JAKIM list. I
 
 - `Maradong` (Sarawak) set same zone as `Sarikei`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Meradong_District).
 - `Tanjung Manis` (Sarawak) not in JAKIM list. But found in [JAIS website](https://jais.sarawak.gov.my/web/subpage/webpage_view/150).
+- `Asajaya` (Sarawak) set same zone as `Samarahan`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Asajaya_District).
+- `Pakan` (Sarawak) set same zone as `Sarikei`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Pakan,_Sarawak).
+- `Selangau` (Sarawak) not in the JAKIM list. Assumption made based on the districts that are on the same longitude axis
+- `Tebedu` (Sarawak) not in the JAKIM list. Assumption made based on the districts that are on the same longitude axis
+- `Telang Usan` (Sarawak) set same zone as `Miri`. Assumption made based on location of the districts [[wiki]](https://ms.wikipedia.org/wiki/Daerah_Telang_Usan).
+- `Subis` (Sarawak) set same zone as `Miri`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Subis_District).
+- `Beluru` (Sarawak) set same zone as `Miri`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Beluru_District).
+- `Bukit Mabong` (Sarawak) not in the JAKIM list. Assumption made based on the districts that are on the same longitude axis

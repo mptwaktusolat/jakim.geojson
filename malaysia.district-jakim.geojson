@@ -6736,7 +6736,7 @@
         "name": "Mukah",
         "code_state": 13,
         "state": "SWK",
-        "jakim_code":"SWK04"
+        "jakim_code": "SWK04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7861,7 +7861,7 @@
         "name": "Tanjung Manis",
         "code_state": 13,
         "state": "SWK",
-        "jakim_code":"SWK05"
+        "jakim_code": "SWK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8814,7 +8814,8 @@
       "properties": {
         "name": "Asajaya",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8883,7 +8884,8 @@
       "properties": {
         "name": "Pakan",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10032,7 +10034,8 @@
       "properties": {
         "name": "Selangau",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10832,7 +10835,8 @@
       "properties": {
         "name": "Tebedu",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK07"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12532,7 +12536,8 @@
       "properties": {
         "name": "Telang Usan",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13050,7 +13055,8 @@
       "properties": {
         "name": "Subis",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13318,7 +13324,8 @@
       "properties": {
         "name": "Beluru",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13970,7 +13977,8 @@
       "properties": {
         "name": "Bukit Mabong",
         "code_state": 13,
-        "state": "SWK"
+        "state": "SWK",
+        "jakim_code": "SWK03"
       },
       "geometry": {
         "type": "MultiPolygon",
