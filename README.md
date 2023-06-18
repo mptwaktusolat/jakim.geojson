@@ -37,9 +37,6 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 
 ## TODOs:
 
-- `Hulu Perak` Perak not in JAKIM list. However, a similar zone `Hulu` is available. Need to confirm the assumption.
-- `Batang Padang` Perak not in JAKIM list. Need to make an assumption.
-- `Manjung` Perak not in JAKIM list. Need to make an assumption.
 - `Perak Tengah` Perak not in JAKIM list. Need to make an assumption.
 - `Hilir Perak` Perak not in JAKIM list. Need to make an assumption.
 - `Kerian` Perak not in JAKIM list. Need to make an assumption.
@@ -70,3 +67,6 @@ Some districts in geojson file doesn't have corresponding match in JAKIM list. I
 - `Subis` (Sarawak) set same zone as `Miri`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Subis_District).
 - `Beluru` (Sarawak) set same zone as `Miri`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Beluru_District).
 - `Bukit Mabong` (Sarawak) not in the JAKIM list. Assumption made based on the districts that are on the same longitude axis
+- `Hulu Perak` Perak not in JAKIM list. Using similar zone `Hulu`. [[wiki]](https://en.wikipedia.org/wiki/Hulu_Perak_District)
+- `Batang Padang` (Perak) set same zone as `Tapah`. Assumption made based on location of the districts [[wiki]](https://en.wikipedia.org/wiki/Batang_Padang_District).
+- `Manjung` (Perak) not in the JAKIM list. Assumption made based on the districts that are within the same area.

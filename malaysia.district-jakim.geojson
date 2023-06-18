@@ -18159,7 +18159,8 @@
       "properties": {
         "name": "Batang Padang",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18756,7 +18757,8 @@
       "properties": {
         "name": "Manjung",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK05"
       },
       "geometry": {
         "type": "MultiPolygon",
