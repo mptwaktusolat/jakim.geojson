@@ -17527,7 +17527,7 @@
         "name": "Hulu Perak",
         "code_state": 8,
         "state": "PRK",
-        "jakim_code": "PRK03"
+        "jakim_code": "PRK01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18758,7 +18758,7 @@
         "name": "Manjung",
         "code_state": 8,
         "state": "PRK",
-        "jakim_code": "PRK05"
+        "jakim_code": "PRK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19002,7 +19002,8 @@
       "properties": {
         "name": "Perak Tengah",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21943,7 +21944,8 @@
       "properties": {
         "name": "Hilir Perak",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22082,7 +22084,8 @@
       "properties": {
         "name": "Kerian",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26965,7 +26968,8 @@
       "properties": {
         "name": "Kinta",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34770,7 +34774,8 @@
       "properties": {
         "name": "Larut Dan Matang",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code": "PRK02"
       },
       "geometry": {
         "type": "MultiPolygon",
