@@ -24881,7 +24881,8 @@
       "properties": {
         "name": "Muallim",
         "code_state": 8,
-        "state": "PRK"
+        "state": "PRK",
+        "jakim_code":"PRK01"
       },
       "geometry": {
         "type": "MultiPolygon",

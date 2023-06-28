@@ -37,17 +37,17 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 
 ## TODOs:
 
-- `Muallim` Perak not in JAKIM list. Need to make an assumption.
 - `Tawau` Sabah. From Jakim list, ada banyak Tawau. Need to check.
 - `Sandakan` Sabah. From Jakim list, ada banyak Sandakan. Need to check.
 - `Tongod` Sabah not in JAKIM list. Need to make an assumption.
 - Add `Bukit Larut` (Perak)
+- Add/seperate `Temenggor` & `Belum` (Perak)
 
 ## Modification
 
 - `Ulu Langat` (SGR) become `Hulu Langat`
 - `Ulu Selangor` (SGR) become `Hulu Selangor`
-- Seperated Pulau Aur & Pulau Pemanggil from `Mersing` to individual feature.
+- Seperated Pulau Aur & Pulau Pemanggil from `Mersing` to individual features.
 
 ## Assumptions
 
@@ -70,4 +70,4 @@ Some districts in geojson file doesn't have corresponding match in JAKIM list. I
 - `Hilir Perak` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Kerian` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Larut dan Matang` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
--
+- `Muallim` not in JAKIM list. Assumption were made from historical data that Muallim was in `Batang Padang` district. [[Wiki]](https://ms.wikipedia.org/wiki/Daerah_Muallim)
