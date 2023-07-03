@@ -5,8 +5,7 @@
 From JAKIM website: https://www.e-solat.gov.my/, they show the JAKIM Code with their respective districts. I've collected
 those information and presents it nicely in MPT-Server site: https://mpt-server.vercel.app/locations.
 
-Now, I need the districts geofences, so that I can determine one's districts given the coordinates. Luckily, I found the districts
-geojson file from [nullifye](https://github.com/nullifye): https://github.com/nullifye/malaysia.geojson
+Now, I need the districts geofences, so that I can determine one's districts given the coordinates. Luckily, I found the districts geojson file from [nullifye](https://github.com/nullifye): https://github.com/nullifye/malaysia.geojson
 
 The original file is [malaysia.district.geojson](./malaysia.district.geojson), containing this properties for each districts.
 
@@ -19,7 +18,7 @@ The original file is [malaysia.district.geojson](./malaysia.district.geojson), c
 ```
 
 - `name` is the district name, I use this to compare and match with the JAKIM information.
-- `code_state` is IC center number
+- `code_state` is like MyKad center number
 - `state` is a short code for the state. This is not necessarily the same with the initial JAKIM code. But, I use this value to cross check and validate the data I've inputted manually to ensure there are no errors slipped in while in the process of adding the jakim zones data - check [check_zones.py](./check_zones.py)
 
 A copy of the file is created named [malaysia.district-jakim.geojson](./malaysia.district-jakim.geojson). A new item was added to the properties.
@@ -37,9 +36,6 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 
 ## TODOs:
 
-- `Tawau` Sabah. From Jakim list, ada banyak Tawau. Need to check.
-- `Sandakan` Sabah. From Jakim list, ada banyak Sandakan. Need to check.
-- `Tongod` Sabah not in JAKIM list. Need to make an assumption.
 - Add `Bukit Larut` (Perak)
 - Add/seperate `Temenggor` & `Belum` (Perak)
 
@@ -70,4 +66,7 @@ Some districts in geojson file doesn't have corresponding match in JAKIM list. I
 - `Hilir Perak` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Kerian` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Larut dan Matang` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
-- `Muallim` not in JAKIM list. Assumption were made from historical data that Muallim was in `Batang Padang` district. [[Wiki]](https://ms.wikipedia.org/wiki/Daerah_Muallim)
+- `Muallim` not in JAKIM list. Assumptions were made from neighboring districts (Tanjung Malim/Slim River).
+- ` Tawau` (Sabah). From Jakim list, there are splitted into two zones, `Bahagian Tawau (Timur)` & `Bahagian Tawau (Barat)`. However, no splitting were made since area in `Bahagian Tawau (Timur)` are covered by other districts already (eg `Kalabakan`). Hence, `Tawau` is considered as `Bahagian Tawau (Barat)`, since it also contains `Bandar Tawau` inside.
+- `Tongod` (Sabah) not in the JAKIM list. Taking information from [JADUAL WAKTU SOLAT BAGI NEGERI SABAH TAHUN 2022](https://mufti.sabah.gov.my/images/laman-utama/zon-waktu-solat/Zon_Waktu_solat_2022/ZON_2.pdf).
+- ` Sandakan` (Sabah). From Jakim list, there are splitted into two zones, `Bahagian Sandakan (Timur)` & `Bahagian Sandakan (Barat)`. However, no splitting were made since area in `Bahagian Sandakan (Timur)` are assumed to be `Kinabatangan` and `Bahagian Sandakan (Barat)` is considered as `Sandakan`, since it also contains `Bandar Sandakan` inside.

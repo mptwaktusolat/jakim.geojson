@@ -29135,7 +29135,8 @@
       "properties": {
         "name": "Tawau",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code":"SBH04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31471,7 +31472,8 @@
       "properties": {
         "name": "Sandakan",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH", 
+        "jakim_code":"SBH01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32526,7 +32528,8 @@
       "properties": {
         "name": "Kinabatangan",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code":"SBH02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37918,7 +37921,8 @@
       "properties": {
         "name": "Tongod",
         "code_state": 12,
-        "state": "SBH"
+        "state": "SBH",
+        "jakim_code":"SBH02"
       },
       "geometry": {
         "type": "MultiPolygon",
