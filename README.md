@@ -65,7 +65,7 @@ Some districts in geojson file doesn't have corresponding match in JAKIM list. I
 - `Kinta` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Hilir Perak` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Kerian` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
-- `Larut dan Matang` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
+- `Larut dan Matang` (Perak) not in the JAKIM list. Taking information from [AzanPro zones](https://raw.githubusercontent.com/mptwaktusolat/mpt-server/main/json/zoneStatesData/azanProZones.json) database.
 - `Muallim` not in JAKIM list. Assumptions were made from neighboring districts (Tanjung Malim/Slim River).
 - ` Tawau` (Sabah). From Jakim list, there are splitted into two zones, `Bahagian Tawau (Timur)` & `Bahagian Tawau (Barat)`. However, no splitting were made since area in `Bahagian Tawau (Timur)` are covered by other districts already (eg `Kalabakan`). Hence, `Tawau` is considered as `Bahagian Tawau (Barat)`, since it also contains `Bandar Tawau` inside.
 - `Tongod` (Sabah) not in the JAKIM list. Taking information from [JADUAL WAKTU SOLAT BAGI NEGERI SABAH TAHUN 2022](https://mufti.sabah.gov.my/images/laman-utama/zon-waktu-solat/Zon_Waktu_solat_2022/ZON_2.pdf).
