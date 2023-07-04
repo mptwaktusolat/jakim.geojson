@@ -24882,7 +24882,7 @@
         "name": "Muallim",
         "code_state": 8,
         "state": "PRK",
-        "jakim_code":"PRK01"
+        "jakim_code": "PRK01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29136,7 +29136,7 @@
         "name": "Tawau",
         "code_state": 12,
         "state": "SBH",
-        "jakim_code":"SBH04"
+        "jakim_code": "SBH04"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31472,8 +31472,8 @@
       "properties": {
         "name": "Sandakan",
         "code_state": 12,
-        "state": "SBH", 
-        "jakim_code":"SBH01"
+        "state": "SBH",
+        "jakim_code": "SBH01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32529,7 +32529,7 @@
         "name": "Kinabatangan",
         "code_state": 12,
         "state": "SBH",
-        "jakim_code":"SBH02"
+        "jakim_code": "SBH02"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37922,7 +37922,7 @@
         "name": "Tongod",
         "code_state": 12,
         "state": "SBH",
-        "jakim_code":"SBH02"
+        "jakim_code": "SBH02"
       },
       "geometry": {
         "type": "MultiPolygon",
