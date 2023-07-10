@@ -37,6 +37,7 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 ## TODOs:
 
 - Add `Bukit Larut` (Perak)
+- Seperate `Pulau Tioman` from `Rompin` (PHG)
 
 ## Modification
 
@@ -44,6 +45,7 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 - `Ulu Selangor` (SGR) become `Hulu Selangor`
 - Seperated Pulau Aur & Pulau Pemanggil from `Mersing` to individual features.
 - `Hulu Perak` is breaked apart into several mukims. A map of Hulu Perak districts is obtained from [wiki](https://ms.wikipedia.org/wiki/Hulu_Perak#/media/Fail:Map_of_Hulu_Perak_District,_Perak.svg), then using https://geojson.io/, the major mukims were traced back and added to the geojson file.
+- `Rompin` is breaked apart into `Rompin` & `Pulau Tioman`.
 
 ## Assumptions
 
