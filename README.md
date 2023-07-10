@@ -1,9 +1,17 @@
 # JAKIM Zone code based on daerah in Malaysia
 
+**GeoJson** files containing the JAKIM zone code based on daerah in Malaysia.
+
+> GeoJSON is a format for encoding a variety of geographic data structures.
+
+> GeoJSON supports the following geometry types: `Point`, `LineString`, `Polygon`, `MultiPoint`, `MultiLineString`, and `MultiPolygon`. Geometric objects with additional properties are Feature objects. Sets of features are contained by FeatureCollection objects.
+
+Read more on: https://geojson.org/
+
 ## Methodology
 
-From JAKIM website: https://www.e-solat.gov.my/, they show the JAKIM Code with their respective districts. I've collected
-those information and presents it nicely in MPT-Server site: https://mpt-server.vercel.app/locations.
+From JAKIM website: https://www.e-solat.gov.my/, they show the **JAKIM Code** with their respective districts. I've collected
+those information and presents it nicely in **MPT-Server** site: https://mpt-server.vercel.app/locations.
 
 Now, I need the districts geofences, so that I can determine one's districts given the coordinates. Luckily, I found the districts geojson file from [nullifye](https://github.com/nullifye): https://github.com/nullifye/malaysia.geojson
 
@@ -32,12 +40,11 @@ A copy of the file is created named [malaysia.district-jakim.geojson](./malaysia
 },
 ```
 
-Check out Zone Visualization tool - an interactive tool to view map and jakim zones: https://github.com/mptwaktusolat/jakim_zones_map.
+Check out **Zone Visualization tool** - an interactive tool to view map and jakim zones: https://github.com/mptwaktusolat/jakim_zones_map.
 
 ## TODOs:
 
 - Add `Bukit Larut` (Perak)
-- Seperate `Pulau Tioman` from `Rompin` (PHG)
 
 ## Modification
 
