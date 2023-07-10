@@ -37,13 +37,13 @@ Check out Zone Visualization tool - an interactive tool to view map and jakim zo
 ## TODOs:
 
 - Add `Bukit Larut` (Perak)
-- Add/seperate `Temenggor` & `Belum` (Perak)
 
 ## Modification
 
 - `Ulu Langat` (SGR) become `Hulu Langat`
 - `Ulu Selangor` (SGR) become `Hulu Selangor`
 - Seperated Pulau Aur & Pulau Pemanggil from `Mersing` to individual features.
+- `Hulu Perak` is breaked apart into several mukims. A map of Hulu Perak districts is obtained from [wiki](https://ms.wikipedia.org/wiki/Hulu_Perak#/media/Fail:Map_of_Hulu_Perak_District,_Perak.svg), then using https://geojson.io/, the major mukims were traced back and added to the geojson file.
 
 ## Assumptions
 
@@ -61,11 +61,12 @@ Some districts in geojson file doesn't have corresponding match in JAKIM list. I
 - `Bukit Mabong` (Sarawak) not in the JAKIM list. Assumption made based on the districts that are on the same longitude axis
 - `Hulu Perak` (Perak) not in JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Batang Padang` (Perak) not in JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
-- `Manjung` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
+- `Manjung` (Perak) not in the JAKIM list. Taking `Sitiawan` as they seem to share similar geographic space.
+- `Perak Tengah` (Perak) not in JAKIM list. Taking information from [AzanPro zones](https://raw.githubusercontent.com/mptwaktusolat/mpt-server/main/json/zoneStatesData/azanProZones.json) database.
 - `Kinta` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Hilir Perak` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
 - `Kerian` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
-- `Larut dan Matang` (Perak) not in the JAKIM list. Taking information from [Penyelarasan Zon-zon Waktu Solat Seluruh Malaysia](https://www.e-solat.gov.my/portalassets/files/Penyelarasan-Zon-Waktu-Solat.pdf).
+- `Larut dan Matang` (Perak) not in the JAKIM list. Taking information from [AzanPro zones](https://raw.githubusercontent.com/mptwaktusolat/mpt-server/main/json/zoneStatesData/azanProZones.json) database.
 - `Muallim` not in JAKIM list. Assumptions were made from neighboring districts (Tanjung Malim/Slim River).
 - ` Tawau` (Sabah). From Jakim list, there are splitted into two zones, `Bahagian Tawau (Timur)` & `Bahagian Tawau (Barat)`. However, no splitting were made since area in `Bahagian Tawau (Timur)` are covered by other districts already (eg `Kalabakan`). Hence, `Tawau` is considered as `Bahagian Tawau (Barat)`, since it also contains `Bandar Tawau` inside.
 - `Tongod` (Sabah) not in the JAKIM list. Taking information from [JADUAL WAKTU SOLAT BAGI NEGERI SABAH TAHUN 2022](https://mufti.sabah.gov.my/images/laman-utama/zon-waktu-solat/Zon_Waktu_solat_2022/ZON_2.pdf).
