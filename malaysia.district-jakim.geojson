@@ -18717,7 +18717,7 @@
         "name": "Manjung",
         "code_state": 8,
         "state": "PRK",
-        "jakim_code": "PRK02"
+        "jakim_code": "PRK05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18962,7 +18962,7 @@
         "name": "Perak Tengah",
         "code_state": 8,
         "state": "PRK",
-        "jakim_code": "PRK02"
+        "jakim_code": "PRK05"
       },
       "geometry": {
         "type": "MultiPolygon",
