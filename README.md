@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b04a111e-c593-4132-bbb6-45e47450f759)# JAKIM Zone code based on daerah in Malaysia
+# JAKIM Zone code based on daerah in Malaysia
 
 [![Map screenshot](https://github.com/user-attachments/assets/2a721d52-d8e0-4951-87a3-22c0f143d8b1)](https://peta.waktusolat.app/)
 
